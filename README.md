@@ -1,19 +1,19 @@
-# vue-yiqing
+# vue-vue
 
-## Project setup
-```
-npm install
-```
+## 注意：此项目为个人开发练习，不做商业用途
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 功能：
+登录页面
+点击宠物类别，跳转到相应宠物品种展示页面
+从品种点击跳转到具体词条
+展示宠物百科知识
+宠物相册和成长记录（如洗澡剪毛疫苗体检等，同样只有页面展示，不能实际记录上传）
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 技术栈
+CSS预处理器less
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 项目展示
+
+## 项目运行
+
+## 项目布局
