@@ -28,3 +28,7 @@ CSS预处理器less
 在运行npm run serve时如有10% building 2/5 modules 3 active ...lib\index.js!/路径报错，则先执行$env:NODE_OPTIONS="--openssl-legacy-provider"，再执行npm run serve即可
 
 ## 项目布局
+
+## 写在最后
+因为还是学生，平时最多也是和同学一起开发，并没有参与过真正的企业团队开发，所以应该有很多地方做的不是很好，欢迎各位大佬们给我提一些意见。
+如果有问题，您可以在 Issues 中提问。 如果您对这个项目感兴趣，请Star支持下，谢谢！
