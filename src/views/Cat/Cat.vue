@@ -1,8 +1,5 @@
 <template>
     <div class="all">
-      <div>
-      
-    </div>
           <router-link :to="{name:'info',params:{care:item.careKnowledge,feed:item.feedPoints,name:item.name,engName:item.engName,nation:item.nation,characters:item.characters,easyOfDisease:item.easyOfDisease,life:item.life,coverURL:item.coverURL,feature:item.feature}}" tag="div" v-for="(item,index) in cat" :key="index">
             <div class="album">
               <el-avatar shape="circle" :fit="scale-down" :size="100" :src="item.coverURL" :alt="item.name"></el-avatar>

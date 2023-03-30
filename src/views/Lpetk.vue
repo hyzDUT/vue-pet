@@ -2,7 +2,6 @@
     <div class="wuzi">
         <!-- 顶部logo -->
         <img width="100%" src="../assets/image/agetop.jpg" alt="" />
-      <!-- 物资内容 -->
       <div class="wrapper">
         <!-- 选项卡：1. 自己写  2. vant库里面  3. 修改vant样式 /deep/ 类名{ }-->
         <!-- vant库-tabs标签 -->

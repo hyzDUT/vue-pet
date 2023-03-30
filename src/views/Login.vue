@@ -68,17 +68,18 @@ body{
 
 .loginbg{
     width: 100%;
-    height: 850px;
+    height: 1000px;
     overflow: hidden;
     position: absolute;
     top: 0;
     z-index: 0;
-   
-}
-.loginbg  img {
+    img {
     width: 100%;
     transition: 1.5s all;
 }
+   
+}
+
 .loginbox{
     width: 300px;
     height: 180px;
@@ -93,31 +94,25 @@ body{
     top: 0;
     bottom: 0;
     margin: auto auto;
-   
-}
-.loginbox  h1{
+    h1{
     text-align: center;
     color: #fff;
     font-family:"Arial";
-
-}
-.loginbox p{
+    }
+    p{
     font-size: 18px;
     display: block;
     width: 380px;
     height: 20px auto;
-}
-.loginbox i{
+    }
+    i{
     display: inline-block;
     width: 25px;
     height: 25px;
     padding-top: 5px;
     margin-left: 10px;
-}
-.icon{
-    width: 25px;
-}
-.loginbox input{
+    }
+    input{
     width: 200px;
     height: 18px;
     font-size: 18px;
@@ -126,6 +121,13 @@ body{
     border: none;
     border-bottom: 2px solid #000;
     color: #D7DDE8;
+}
+
+
+   
+}
+.icon{
+    width: 25px;
 }
 .loginbox input:focus{
     outline: none;
