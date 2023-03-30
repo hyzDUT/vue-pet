@@ -25,10 +25,9 @@ CSS预处理器less
 
 ## 项目运行
 命令行进入项目文件夹  
-```
-npm install```
+```npm install```
 （初次启动）  
-运行npm run serve启动前端工程  
+```npm run serve```启动前端工程  
 在运行npm run serve时如有10% building 2/5 modules 3 active ...lib\index.js!/路径报错，则先执行
 ```$env:NODE_OPTIONS="--openssl-legacy-provider"```
 再执行
