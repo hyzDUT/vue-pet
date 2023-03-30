@@ -25,13 +25,22 @@ CSS预处理器less
 
 ## 项目运行
 命令行进入项目文件夹  
-```npm install```
+```
+npm install
+```
 （初次启动）  
-```npm run serve```启动前端工程  
+```
+npm run serve
+```
+启动前端工程  
 在运行npm run serve时如有10% building 2/5 modules 3 active ...lib\index.js!/路径报错，则先执行
-```$env:NODE_OPTIONS="--openssl-legacy-provider"```
+```
+$env:NODE_OPTIONS="--openssl-legacy-provider"
+```
 再执行
-```npm run serve```
+```
+npm run serve
+```
 ## 关于api接口
 在项目中使用了现成的api接口，是在天行数据上申请的，https://www.tianapi.com/apiview/162 是该接口的网址。  
 如果要运行需要自己注册一个账号并申请该接口，然后把src/api/index.js里的密钥改成自己账号申请的密钥即可。
