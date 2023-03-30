@@ -22,7 +22,7 @@ vant
 CSS预处理器less  
 
 ## 项目展示
-![image](https://github.com/hyzDUT/vue-pet/result/page.gif)
+![image](https://github.com/hyzDUT/vue-pet/blob/master/result/page.gif)
 
 ## 项目运行
 命令行进入项目文件夹  
