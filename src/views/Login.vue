@@ -62,8 +62,8 @@ export default{
 </script>
 
 <style scoped lang='less'>
-body{
-    margin: 0;
+.all{
+    padding: 0.2rem;
 }
 
 .loginbg{
