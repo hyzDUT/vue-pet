@@ -26,8 +26,8 @@
 页面整体  
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/page.gif" width="200px">
 点进猫类和狗类图标  
-![Alt Text](https://github.com/hyzDUT/vue-pet/blob/master/result/cat.gif){:width="200px"}
-![Alt Text](https://github.com/hyzDUT/vue-pet/blob/master/result/dog.gif){:width="200px"}  
+<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/cat.gif" width="200px">
+<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/dog.gif" width="200px">    
 点进宠物百科知识图标  
 
 
