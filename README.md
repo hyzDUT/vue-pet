@@ -22,7 +22,14 @@ vant
 CSS预处理器less  
 
 ## 项目展示
-<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/page.gif" width="200px">
+页面整体  
+<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/page.gif" width="200px"><br/>
+点进猫类和狗类图标  
+<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/cat.gif" width="200px">
+<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/dog.gif" width="200px"><br/>
+点进宠物百科知识图标  
+
+
 
 ## 项目运行
 命令行进入项目文件夹  
