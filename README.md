@@ -29,7 +29,7 @@
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/cat.gif" width="200px">
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/dog.gif" width="200px"><br/>   
 点进宠物百科知识图标    
-<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/climb.gif" width="200px"><br/> 
+<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/climb.gif" width="200px"><br/>    
 点进宠物记录图标（因为只有前端页面，所以只有展示功能，没有实际记录功能）
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/note.gif" width="200px">
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/photo.gif" width="200px">
