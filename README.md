@@ -25,12 +25,11 @@
 ## 项目展示
 页面整体  
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/page.gif" width="200px"><br/>
-点进猫类和狗类、小宠物类图标（其实五类都可以点，偏度所限只展示三个）  
+点进猫类和狗类图标（其实五类都可以点，偏度所限只展示两个）  
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/cat.gif" width="200px">
-<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/dog.gif" width="200px">    
-<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/lpet.gif" width="200px">   
+<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/dog.gif" width="200px"><br/>   
 点进宠物百科知识图标    
-<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/climb.gif" width="200px">   
+<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/climb.gif" width="200px"><br/> 
 点进宠物记录图标（因为只有前端页面，所以只有展示功能，没有实际记录功能）
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/note.gif" width="200px">
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/photo.gif" width="200px">
