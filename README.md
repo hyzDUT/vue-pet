@@ -31,7 +31,6 @@
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/cat.gif" width="200px">
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/dog.gif" width="200px"><br/>   
 点进宠物百科知识图标      
-
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/lpet.gif" width="200px">
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/food.gif" width="200px">
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/climb.gif" width="200px"><br/>    
