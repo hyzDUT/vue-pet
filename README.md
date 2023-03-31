@@ -22,17 +22,22 @@
 * vant
 * CSS预处理器less  
 
-## 项目展示
+## 项目展示  
+登录页面   
+<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/login.gif" width="200px"><br/>    
 页面整体  
-<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/page.gif" width="200px"><br/>
+<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/page.gif" width="200px"><br/>    
 点进猫类和狗类图标（其实五类都可以点，偏度所限只展示两个）  
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/cat.gif" width="200px">
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/dog.gif" width="200px"><br/>   
-点进宠物百科知识图标    
+点进宠物百科知识图标      
+
+<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/lpet.gif" width="200px">
+<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/food.gif" width="200px">
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/climb.gif" width="200px"><br/>    
-点进宠物记录图标（因为只有前端页面，所以只有展示功能，没有实际记录功能）
+点进宠物记录图标（因为只有前端页面，所以只有展示功能，没有实际记录功能）    
 <img src="https://github.com/hyzDUT/vue-pet/blob/master/result/note.gif" width="200px">
-<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/photo.gif" width="200px">
+<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/photo.gif" width="200px"><br/>
 
 ## 项目运行
 命令行进入项目文件夹  
