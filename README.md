@@ -14,19 +14,20 @@
 宠物相册和成长记录（如洗澡剪毛疫苗体检等，同样只有页面展示，不能实际记录上传）  
 
 ## 技术栈
-vue2  
-vue-router  
-axios  
-element-UI  
-vant
-CSS预处理器less  
+* vue2  
+* vue-router  
+* vue-cli  
+* axios  
+* element-UI  
+* vant
+* CSS预处理器less  
 
 ## 项目展示
 页面整体  
-<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/page.gif" width="200px"><br/>
+<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/page.gif" width="200px">
 点进猫类和狗类图标  
-<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/cat.gif" width="200px">
-<img src="https://github.com/hyzDUT/vue-pet/blob/master/result/dog.gif" width="200px">
+![Alt Text](https://github.com/hyzDUT/vue-pet/blob/master/result/cat.gif){:width="200px"}
+![Alt Text](https://github.com/hyzDUT/vue-pet/blob/master/result/dog.gif){:width="200px"}  
 点进宠物百科知识图标  
 
 
